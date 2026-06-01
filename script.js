@@ -3,6 +3,7 @@ Hari ini adalah hari spesialmu✨
 1 juni podo koyok hari lahir e pancasila,
 berarti kamu sama kayak pancasila,
 sama-sama jadi pedoman hidup
+awowkwokwqodkqkdk
 (ketoke e aku gabakat gombal deh)
 
 Happy Birthday Neva ❤️
