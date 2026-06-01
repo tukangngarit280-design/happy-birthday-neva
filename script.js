@@ -13,7 +13,7 @@ pribadi yang baik dan luar biasa.
 Semoga semua impianmu tercapai,
 rezekimu lancar,
 dan setiap langkahmu dipenuhi
-kebahagiaan.
+kebahagiaan. You can call me bos everytime
 
 🎂❤️✨
 `;
