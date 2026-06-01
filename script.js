@@ -113,3 +113,13 @@ document.addEventListener("click", () => {
     const music = document.getElementById("music");
     music.play();
 }, { once: true });
+
+// Memutar musik otomatis begitu layar disentuh atau diklik pertama kali
+document.addEventListener('click', function() {
+    const musik = document.getElementById('music');
+    if (musik) {
+        musik.play().catch(error => {
+            console.log("Autoplay diblokir oleh browser, mencoba lagi...", error);
+        });
+    }
+}, { once: true }); // { once: true } memastikan fungsi ini cuma berjalan 1 kali saat klik pertama
