@@ -1,13 +1,13 @@
 *{
     margin:0;
-    padding:0;
+    padding:40px 20px;
     box-sizing:border-box;
     font-family:'Poppins',sans-serif;
 }
 
 body{
     height:100vh;
-    overflow:hidden;
+    overflow:auto;
     background:black;
     display:flex;
     justify-content:center;
