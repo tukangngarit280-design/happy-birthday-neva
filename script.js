@@ -103,3 +103,13 @@ function countdown() {
 }
 
 countdown();
+
+
+// ===============================
+// AUTOPLAY SETELAH KLIK PERTAMA
+// ===============================
+
+document.addEventListener("click", () => {
+    const music = document.getElementById("music");
+    music.play();
+}, { once: true });
